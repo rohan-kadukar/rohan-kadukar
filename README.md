@@ -21,7 +21,6 @@
 ---
 
 ## 🌟 About Me
-<div height="auto">
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
@@ -42,11 +41,10 @@ const rohan = {
     ],
     funFact: "I automate everything - from code deployments to coffee brewing schedules! ☕🤖"
 };
-```
-</div>
+
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="auto">
 </div>
 
 * 🎓 **M.Sc. in Computer Science**, Modern College, Ganeshkhind (SPPU), 2023–2025. CGPA: 81.09%
