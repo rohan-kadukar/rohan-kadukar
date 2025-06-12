@@ -394,7 +394,7 @@ graph TD
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="max-width: 300px; height: auto; border-radius: 20px; box-shadow: 0 15px 35px rgba(0, 217, 255, 0.3);" alt="Philosophy Visual">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(255, 87, 34, 0.2);" alt="Translator Project">
   </picture>
 </div>
 
@@ -486,7 +486,9 @@ graph TD
 - Drone programming and coordination algorithms
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" style="max-width: 400px; height: 400px;" alt="Blog Divider">
+  <picture>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(255, 87, 34, 0.2);" alt="Translator Project">
+  </picture>
 </div>
 
 ---
