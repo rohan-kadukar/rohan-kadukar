@@ -223,7 +223,7 @@ const rohan = {
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a8cb-986760b7c76c.gif" width="200" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0, 217, 255, 0.2);" alt="Academy Project">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" style="border-radius: 15px; box-shadow: 0 8px 25px rgba(0, 217, 255, 0.2);" alt="Academy Project">
   </picture>
 </div>
 
@@ -350,7 +350,7 @@ const rohan = {
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a8cb-986760b7c76c.gif" width="100%" style="max-width: 400px; height: auto; border-radius: 15px;" alt="Learning Journey">
+    <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="max-width: 400px; height: auto; border-radius: 15px;" alt="Learning Journey">
   </picture>
 </div>
 
@@ -384,7 +384,7 @@ graph TD
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" style="max-width: 400px; height: auto;" alt="Roadmap Visual">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" style="max-width: 400px; height: 400px;" alt="Roadmap Visual">
   </picture>
 </div>
 
@@ -487,14 +487,64 @@ graph TD
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" style="max-width: 400px; height: auto;" alt="Blog Divider">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" style="max-width: 400px; height: 400px;" alt="Blog Divider">
   </picture>
 </div>
 
 ---
 
-## 🤝 Collaboration & Opportunities
+🤝 Collaboration & Opportunities
+<div align="center">
+  <picture>
+    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" style="max-width: 300px; height: auto; border-radius: 15px;" alt="Collaboration Banner">
+  </picture>
+</div>
+🌟 Open to:
+
+🚀 Full-Stack Development Projects: Modern web applications with AI integration
+☁️ Cloud Architecture Consulting: Multi-cloud strategies and DevOps implementation
+🤖 AI Product Development: Conversational interfaces and intelligent automation
+🛠️ Open Source Contributions: JavaScript frameworks, AI tools, DevOps utilities
+🎯 Hardware Innovation: Drone applications, IoT solutions, embedded systems
+📚 Knowledge Transfer: Technical writing, speaking engagements, mentorship programs
+
+💡 Expertise Areas:
+
+Modern full-stack web development
+AI-powered application development
+Cloud-native application architecture
+DevOps pipeline optimization
+Hardware-software integration projects
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ready+to+innovate+together!;Let's+automate+the+impossible!;Building+the+future%2C+one+solution+at+a+time!;Powered+by+curiosity+and+caffeine!" alt="Collaboration"/>
+</p>
+<div align="center">
+  <picture>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="max-width: 400px; height: auto; border-radius: 20px; box-shadow: 0 12px 30px rgba(54, 188, 247, 0.3);" alt="Innovation Visual">
+  </picture>
+</div>
+📧 Contact: rohankadukar12@gmail.com
+🔗 Schedule a Call: calendar.rohatech.site (coming soon)
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ff
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 900px; height: auto;" alt="Footer Banner">
+  </picture>
+</div>
+<div align="center">
+  <h3 style="background: linear-gradient(45deg, #00D9FF, #36BCF7, #FF6B6B); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 24px; margin: 20px 0;">
+    ✨ Let's Build Something Amazing Together! ✨
+  </h3>
+</div>
+<p align="center">
+  <i>© 2025 Rohan Ramesh Kadukar. Crafted with ❤️, powered by ☕, and automated with 🤖.</i>
+</p>
+<div align="center">
+  <picture>
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" style="max-width: 400px; height: auto; border-radius: 20px; box-shadow: 0 15px 40px rgba(0, 217, 255, 0.25);" alt="Closing Animation">
+  </picture>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+coding+and+stay+curious! 🚀;Feel+free+to+reach+out+anytime! 💬" alt="Farewell Message"/>
+</div>
