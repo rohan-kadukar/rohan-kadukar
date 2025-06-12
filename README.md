@@ -56,9 +56,7 @@ const rohan = {
 * 📧 **Reach Me**: [rohankadukar12@gmail.com](mailto:rohankadukar12@gmail.com)
 * 📍 **Based in**: Gadhinglaj, Maharashtra, India
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
+
 
 ---
 
@@ -81,9 +79,6 @@ const rohan = {
   <a href="https://instagram.com/rohan_kadukar" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100">
-</div>
 
 ---
 
@@ -100,7 +95,7 @@ const rohan = {
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,vue,bootstrap,tailwind,sass,materialui" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,angular,bootstrap,tailwind,sass,materialui" alt="Frontend Skills"/>
 </p>
 </details>
 
@@ -111,7 +106,7 @@ const rohan = {
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7de974.gif" width="100">
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,cpp,mysql,mongodb,postgresql,redis,graphql" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,mysql,mongodb,postgresql" alt="Backend Skills"/>
 </p>
 </details>
 
@@ -141,11 +136,8 @@ const rohan = {
 </details>
 
 <details>
-<summary><b>🤖 AI & Data Science</b></summary>
+<summary><b>🤖 AI </b></summary>
 <br>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-</div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI Skills"/>
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
@@ -159,12 +151,12 @@ const rohan = {
   <img src="https://user-images.githubusercontent.com/74038190/212257461-58e91aed-f2a2-4ae7-9674-b88996d3342d.gif" width="100">
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma,photoshop" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,cursor,trae" alt="Tools"/>
 </p>
 </details>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="auto">
 </div>
 
 ---
@@ -186,7 +178,6 @@ const rohan = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 **Official educational platform with intelligent AI assistant**
@@ -199,10 +190,10 @@ const rohan = {
 * 💾 **Context Management**: Advanced summarization and retrieval-based token optimization
 
 **Live Demo**: [abhinavedu.org](https://abhinavedu.org)  
-**Source Code**: `github.com/rohan-kadukar/abhinav-academy-website`
+**Source Code**: `github.com/rohan-kadukar/`
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
 </div>
 
 ---
@@ -230,38 +221,11 @@ const rohan = {
 **Live Demo**: [chikode.rohatech.site](https://chikode.rohatech.site)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="auto">
 </div>
 
 ---
 
-### 🌍 Speak Simple Translator
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Google_Translate_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-**AI-powered translation with voice synthesis**
-
-* 🌐 Support for 100+ languages with high accuracy
-* 🎤 Voice input and speech synthesis capabilities
-* 💾 Smart history and favorites management
-* 📱 Progressive Web App with offline functionality
-* 🔊 Text-to-speech with natural voice options
-
-**Live Demo**: [speaksimpletranslator.rohatech.site](https://speaksimpletranslator.rohatech.site/)
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
----
 
 ### 🤖 Personal AI Assistant Ecosystem
 
@@ -285,13 +249,44 @@ const rohan = {
 
 **Live Demo**: [personal-chatbot-buddy.vercel.app](https://personal-chatbot-buddy.vercel.app)
 
-**Explore More**: `github.com/rohan-kadukar?tab=repositories`
+**Explore More**: `github.com/rohan-kadukar?tab=repositorie`
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="auto">
 </div>
 
 ---
+
+
+### 🌍 Speak Simple Translator
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Google_Translate_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+**AI-powered translation with voice synthesis**
+
+* 🌐 Support for 100+ languages with high accuracy
+* 🎤 Voice input and speech synthesis capabilities
+* 💾 Smart history and favorites management
+* 📱 Progressive Web App with offline functionality
+* 🔊 Text-to-speech with natural voice options
+
+**Live Demo**: [speaksimpletranslator.rohatech.site](https://speaksimpletranslator.rohatech.site/)
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="auto">
+</div>
+
+---
+
+
 
 ## 🎯 Current Learning Journey & Roadmap
 
@@ -307,7 +302,6 @@ graph TD
   A --> C[Power Platform Learning]
   A --> D[DevOps & Cloud Architecture]
   A --> E[AI/AGI Solutions]
-  A --> F[Drone & Embedded Systems]
 
   B --> B1[Advanced React/Next.js Patterns]
   B --> B2[Serverless Architecture Design]
@@ -327,10 +321,7 @@ graph TD
   E --> E3[Computer Vision Integration]
   E --> E4[LLM Integration & Deployment]
 
-  F --> F1[Electronics & Sensor Integration]
-  F --> F2[Flight Controller Programming]
-  F --> F3[Autonomous Navigation Systems]
-  F --> F4[IoT & Edge Computing]
+
 ```
 
 <div align="center">
