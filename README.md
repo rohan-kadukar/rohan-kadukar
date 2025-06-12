@@ -41,6 +41,7 @@ const rohan = {
     ],
     funFact: "I automate everything - from code deployments to coffee brewing schedules! ☕🤖"
 };
+```
 
 
 <div align="center">
