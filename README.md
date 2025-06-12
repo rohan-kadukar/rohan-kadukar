@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 About Me
-
+<div>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ```javascript
@@ -38,12 +38,12 @@ const rohan = {
         "Full Stack Development",
         "AI/AGI Integration & Chatbots/Voice Assistants",
         "DevOps & Cloud-native Architectures",
-        "Embedded Systems & Drone Prototyping",
         "Microsoft Power Platform Learning"
     ],
     funFact: "I automate everything - from code deployments to coffee brewing schedules! ☕🤖"
 };
 ```
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
