@@ -57,7 +57,7 @@ const rohan = {
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="max-width: 800px; height: auto;" alt="Divider">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="max-width: 500px; height: auto;" alt="Divider">
   </picture>
 </div>
 
@@ -205,7 +205,7 @@ const rohan = {
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="max-width: 800px; height: auto;" alt="Divider">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="max-width: 500px; height: auto;" alt="Divider">
   </picture>
 </div>
 
@@ -340,7 +340,7 @@ const rohan = {
 
 <div align="center">
   <picture>
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="max-width: 800px; height: auto;" alt="Section Divider">
+    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" style="max-width: 500px; height: auto;" alt="Section Divider">
   </picture>
 </div>
 
@@ -486,9 +486,7 @@ graph TD
 - Drone programming and coordination algorithms
 
 <div align="center">
-  <picture>
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%" style="max-width: 400px; height: 400px;" alt="Blog Divider">
-  </picture>
 </div>
 
 ---
@@ -546,5 +544,5 @@ Hardware-software integration projects
   </picture>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+coding+and+stay+curious! 🚀;Feel+free+to+reach+out+anytime! 💬" alt="Farewell Message"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Happy+coding+and+stay+curious!+🚀;Feel+free+to+reach+out+anytime!+💬" alt="Farewell Message"/>
 </div>
