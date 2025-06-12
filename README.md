@@ -12,8 +12,8 @@
 ## 🌟 About Me
 - 🎓 **M.Sc. in Computer Science**, Modern College, Ganeshkhind (SPPU), 2023–2025. CGPA: 81.09% :contentReference[oaicite:1]{index=1}
 - 🎓 **B.Sc. in Computer Science**, Shivraj College, Gadhinglaj (Shivaji University), 2021–2023. CGPA: 82.36% :contentReference[oaicite:2]{index=2}
-- 🏆 **Internship Trainee**, SparkLab IT Solutions Pvt. Ltd. (Jan 2025 – Jun 2025): Developed Abhinav Academy Website & AI Chatbot integration. :contentReference[oaicite:3]{index=3}
-- 🌱 Currently exploring AWS services (Lambda, API Gateway, S3, DynamoDB), containerization (Docker, Kubernetes), CI/CD pipelines, and prompt engineering for AI-driven features. :contentReference[oaicite:4]{index=4}
+- 🏆 **Internship Trainee**, SparkLab IT Solutions Pvt. Ltd. (Jan 2025 – Jun 2025): Developed Abhinav Academy Website & integrated AI Chatbot. :contentReference[oaicite:3]{index=3}
+- 🌱 Continuously exploring AWS services (Lambda, API Gateway, S3, DynamoDB), containerization (Docker, Kubernetes), CI/CD pipelines, and prompt engineering for AI-driven features. :contentReference[oaicite:4]{index=4}
 - 💡 Passionate about modern web frameworks (Next.js, React, Angular), secure self-hosted deployments, and crafting intuitive user experiences. :contentReference[oaicite:5]{index=5}
 - 📫 **Contact**: rohankadukar12@gmail.com | +91 7558732173 :contentReference[oaicite:6]{index=6}
 - 📍 Based in Gadhinglaj, Maharashtra, India :contentReference[oaicite:7]{index=7}
@@ -70,67 +70,114 @@
 
 ---
 
-## 🚀 AI & Chatbot Expertise
-I specialize in integrating AI-driven chatbots into web applications, focusing on prompt engineering, context management, and seamless UX. Here’s an overview:
+## 🚀 Projects Showcase
+> A balanced mix of AI-driven and traditional web/software solutions, highlighting breadth and depth. :contentReference[oaicite:8]{index=8}
 
-1. **Architecture & Flow**  
-   - **Frontend**: Next.js/React UI with a chat interface that handles user input, displays streaming responses, and manages session state.  
-   - **Backend/API**: Serverless functions (e.g., Next.js API Routes or AWS Lambda) that receive user messages, maintain conversation context (e.g., via session tokens or database), and call the AI model endpoint (Gemini API) securely.  
-   - **Prompt Engineering**: Craft dynamic prompts with system prompts, user context, and previous messages to guide the model for accurate, context-aware replies.  
-   - **Response Handling**: Stream or chunk responses for real-time UX; include fallback messages and error handling for timeouts or API failures.  
-   - **Data Persistence**: Optionally store conversation logs in a database (e.g., DynamoDB, MongoDB) for analytics or improving prompts later.  
-   - **Security**: Secure API keys using environment variables or secret managers; validate and sanitize user inputs; enforce rate limits to prevent abuse. :contentReference[oaicite:8]{index=8}
+### 1. Abhinav Academy Website & Chatbot
+- **Description**: Official site developed during internship; integrated an AI chatbot using Gemini API to assist students with FAQs, admissions, and course details.  
+- **Tech Stack**: Next.js, Tailwind CSS, JavaScript/TypeScript, Node.js API Routes, Gemini API.  
+- **Key Features**:  
+  - Interactive chat UI with streaming responses.  
+  - Context management with summarization to stay within token limits.  
+  - Fallback & escalation when the bot cannot answer.  
+  - Analytics: logs in MongoDB for insights.  
+  - Multilingual support: Marathi/Hindi/English detection.  
+  - Secure deployment: environment variables, HTTP-only cookies/JWT, CORS restrictions.  
+  - CI/CD: GitHub Actions auto-deploy to Vercel on push.  
+- **Live Demo**: [abhinavedu.org](https://abhinavedu.org)  
+- **Code**: [github.com/rohan-kadukar/abhinav-academy-website](https://github.com/rohan-kadukar/abhinav-academy-website) :contentReference[oaicite:9]{index=9}
 
-2. **Implementation Highlights**  
-   - **Next.js Integration**: API route (e.g., `/api/chat`) that authenticates requests (e.g., via JWT), applies middleware for rate limiting, and invokes the AI endpoint with constructed prompts.  
-   - **Streaming Responses**: Use Fetch API with ReadableStream or libraries supporting streaming to progressively render AI responses in the chat UI.  
-   - **Context Window Management**: Maintain a sliding window of recent messages to stay within token limits; summarize older context if needed via summarization API calls.  
-   - **Multimodal Extensions**: For advanced projects, integrate image or file inputs: preprocess files (e.g., OCR on images) and include results in prompts.  
-   - **Testing & Monitoring**: Simulate varied user queries to test edge cases; log metrics (response times, error rates); monitor costs for API usage and optimize batch calls or caching frequent queries. :contentReference[oaicite:9]{index=9}
+### 2. Chikode (Code Playground & Snippet Manager)
+- **Description**: An online environment for quick prototyping, testing snippets, and sharing code examples. Enables saving and organizing reusable code blocks.  
+- **Tech Stack**: Likely Next.js/React frontend with backend storage (e.g., Firebase/Node.js) for persistence.  
+- **Key Features**:  
+  - Real-time code editing with syntax highlighting.  
+  - Save, tag, and categorize snippets for later reference.  
+  - Shareable links for collaboration or demos.  
+- **Live Demo**: [chikode.rohatech.site](https://chikode.rohatech.site)  
+- **Code**: *(Add repository link when available)* :contentReference[oaicite:10]{index=10}
 
-3. **Project Example: Abhinav Academy Chatbot**  
-   - **Stack**: Next.js frontend, Tailwind CSS for UI, Next.js API Routes invoking Gemini API.  
-   - **Features**:  
-     - Greeting and FAQ responses about courses, timings, admissions.  
-     - Fallback to human: if confidence is low, prompt user to contact support.  
-     - Analytics: logs stored in MongoDB for insights on common queries.  
-   - **Enhancements**:  
-     - Context summarization: compress lengthy sessions so AI remains within token limits.  
-     - Custom knowledge base: fine-tune prompts with institution-specific data (e.g., syllabus, faculty info).  
-     - Multilingual support: detect language and prompt model accordingly (Marathi/Hindi/English).  
-   - **Security**: HTTP-only cookies or JWT for session, CORS restrictions, input validation to prevent injection. :contentReference[oaicite:10]{index=10}
+### 3. Speak Simple Translator
+- **Description**: Web-based translation tool leveraging third-party translation APIs (e.g., Google Translate API) and minimal UI for quick text translation.  
+- **Tech Stack**: Likely Next.js/React frontend, serverless functions for API calls, secure API key handling.  
+- **Key Features**:  
+  - Input text and select target language for instant translation.  
+  - History or favorites for frequently translated phrases.  
+  - Lightweight, responsive UI for mobile and desktop.  
+- **Live Demo**: [speaksimpletranslator.rohatech.site](https://speaksimpletranslator.rohatech.site/)  
+- **Code**: *(Add repository link when available)* :contentReference[oaicite:11]{index=11}
 
-4. **Future Directions**  
-   - **Voice Interface**: Integrate speech-to-text (e.g., Web Speech API) and text-to-speech for voice-enabled chatbot.  
-   - **Agent Orchestration**: Combine multiple AI models (e.g., separate intent-detection, summarization, response generation).  
-   - **Self-hosted Model Wrappers**: Explore open-source LLMs deployed on edge or private cloud for data privacy.  
-   - **Analytics Dashboard**: Build dashboards showing user engagement, common intents, and AI performance metrics. :contentReference[oaicite:11]{index=11}
+### 4. Personal Chatbot Buddy
+- **Description**: A personal AI assistant/chatbot application for quick queries, note-taking, or small talk. Demonstrates reuse of chatbot architecture for personal use.  
+- **Tech Stack**: Next.js frontend, API routes calling AI endpoint (e.g., OpenAI or Gemini), state management for conversation.  
+- **Key Features**:  
+  - Simple UI to chat with AI for brainstorming, reminders, or casual conversation.  
+  - Session persistence with localStorage or backend storage.  
+  - Customizable system prompts for different “modes” (e.g., coding help, motivational coach).  
+- **Live Demo**: [personal-chatbot-buddy.vercel.app](https://personal-chatbot-buddy.vercel.app)  
+- **Code**: *(Add repository link when available)* :contentReference[oaicite:12]{index=12}
+
+### 5. Keshaw Nuts Selling Website
+- **Description**: E-commerce platform for selling nuts with user authentication, product catalog, shopping cart, and payment integration.  
+- **Tech Stack**: Angular, TypeScript, Firebase Auth & Firestore, Cloud Functions.  
+- **Key Features**:  
+  - Admin panel for product and order management.  
+  - Real-time inventory updates with Firestore listeners.  
+  - Responsive UI built with Tailwind CSS or Bootstrap.  
+- **Live Demo**: *(Add live link if deployed)*  
+- **Code**: [github.com/rohan-kadukar/keshaw-nuts-selling](https://github.com/rohan-kadukar/keshaw-nuts-selling) :contentReference[oaicite:13]{index=13}
+
+### 6. Grocery Management System
+- **Description**: Desktop application for grocery inventory, billing, and reporting.  
+- **Tech Stack**: Java Swing, MySQL, JDBC.  
+- **Key Features**:  
+  - CRUD operations for products, billing module with printable receipts.  
+  - Reports: daily sales, low-stock alerts.  
+- **Code**: [github.com/rohan-kadukar/grocery-management-system](https://github.com/rohan-kadukar/grocery-management-system) :contentReference[oaicite:14]{index=14}
+
+### 7. Shopping Portal
+- **Description**: Web portal with user registration, product browsing, and order management.  
+- **Tech Stack**: Java JSP/Servlets, MySQL, Bootstrap.  
+- **Key Features**:  
+  - Secure session handling via HTTP-only cookies.  
+  - Admin dashboard for order processing.  
+- **Code**: [github.com/rohan-kadukar/shopping-portal](https://github.com/rohan-kadukar/shopping-portal) :contentReference[oaicite:15]{index=15}
+
+### 8. Blog & Articles
+- **Description**: Technical blog sharing insights on web development, DevOps, AI integrations, and tutorials.  
+- **Platform**: Blogger.  
+- **URL**: [blog.rohatech.site](https://blog.rohatech.site) (mirrors posts from rohan-kadukar.blogspot.com)  
+- **Highlights**:  
+  - Articles on secure authentication, performance optimization, prompt engineering for chatbots.  
+  - Tutorials on AWS services, containerization, and deployment pipelines.  
+- **Link**: [View All Posts](https://blog.rohatech.site) :contentReference[oaicite:16]{index=16}
+
+### 9. Utility & Practice Repos
+- **JavaDSA**: Implementations of data structures and algorithms in Java for interview prep.  
+- **scala_practical**, **python_practical**: Hands-on exercises in Scala and Python.  
+- **MangoDB Examples**: MongoDB tutorials and scripts.  
+- **Other**: CLI tools, scripts, small utilities.  
+- **Repos**: Browse [my GitHub repositories](https://github.com/rohan-kadukar?tab=repositories) for full list. :contentReference[oaicite:17]{index=17}
 
 ---
 
-## 🚀 Projects Showcase
-> Detailed highlights; links point to exact repositories. :contentReference[oaicite:12]{index=12}
+## 📈 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kadukar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kadukar&theme=dark&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kadukar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohan-kadukar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+</p>
+> “Aspire to build solutions that not only solve problems but also delight users.” :contentReference[oaicite:18]{index=18}
 
-### 1. Abhinav Academy Website & Chatbot
-- **Description**: Official site built during internship. Integrated an AI chatbot using Gemini API to assist students with FAQs, admissions, and course details.  
-- **Tech Stack**: Next.js, Tailwind CSS, JavaScript/TypeScript, Node.js API Routes, Gemini API.  
-- **Key Features**:  
-  - **Interactive Chat UI** with streaming responses.  
-  - **Context Management**: Maintains conversation history, summarizes old context.  
-  - **Fallback & Escalation**: When the bot cannot answer, suggests contacting support.  
-  - **Analytics**: Stores conversation logs in MongoDB for insights.  
-  - **Multilingual Support**: Handles Marathi/Hindi/English based on detection.  
-  - **Deployment**: Deployed on Vercel with environment variables for secrets; CI/CD pipeline in GitHub Actions for automatic deployments on push to `main`.  
-- **Live Demo**: [abhinavedu.org](https://abhinavedu.org)  
-- **Code**: [github.com/rohan-kadukar/abhinav-academy-website](https://github.com/rohan-kadukar/abhinav-academy-website)  
-- **Architecture Diagram**:  
-  ```mermaid
-  flowchart LR
-    U[User Browser] -->|Message| F[Next.js Chat UI]
-    F -->|POST /api/chat| A[Next.js API Route]
-    A -->|Construct Prompt| P{Prompt Engine}
-    P -->|Call| G[Gemini API]
-    G -->|Response| P
-    P -->|Return| F
-    F -->|Render Streaming| U
-    A -->|Log| DB[MongoDB]
+---
+
+## 📫 Get In Touch
+<p align="center">
+  <a href="mailto:rohankadukar12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/rohan-kadukar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://rohatech.site"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+</p>
+<p align="center">© 2025 Rohan Ramesh Kadukar. All rights reserved.</p>
