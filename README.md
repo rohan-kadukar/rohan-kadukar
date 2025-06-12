@@ -1,183 +1,408 @@
+# 🚀 Rohan Ramesh Kadukar
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Cloud+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohan-kadukar&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=rohan-kadukar&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/rohan-kadukar?label=Followers&style=for-the-badge&color=blue" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/rohan-kadukar?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Rohan Ramesh Kadukar</h1>
-<p align="center">
-  <em>Full Stack Developer crafting efficient, scalable, and dynamic applications. Continuously learning AWS, DevOps, and AI integrations to build innovative solutions.</em> :contentReference[oaicite:0]{index=0}
-</p>
+<div align="center">
+  <img src="https://github.com/rohan-kadukar/rohan-kadukar/assets/your-image/header-image.gif" alt="Header" width="100%"/>
+</div>
 
 ---
 
 ## 🌟 About Me
-- 🎓 **M.Sc. in Computer Science**, Modern College, Ganeshkhind (SPPU), 2023–2025. CGPA: 81.09% :contentReference[oaicite:1]{index=1}
-- 🎓 **B.Sc. in Computer Science**, Shivraj College, Gadhinglaj (Shivaji University), 2021–2023. CGPA: 82.36% :contentReference[oaicite:2]{index=2}
-- 🏆 **Internship Trainee**, SparkLab IT Solutions Pvt. Ltd. (Jan 2025 – Jun 2025): Developed Abhinav Academy Website & integrated AI Chatbot. :contentReference[oaicite:3]{index=3}
-- 🌱 Continuously exploring AWS services (Lambda, API Gateway, S3, DynamoDB), containerization (Docker, Kubernetes), CI/CD pipelines, and prompt engineering for AI-driven features. :contentReference[oaicite:4]{index=4}
-- 💡 Passionate about modern web frameworks (Next.js, React, Angular), secure self-hosted deployments, and crafting intuitive user experiences. :contentReference[oaicite:5]{index=5}
-- 📫 **Contact**: rohankadukar12@gmail.com | +91 7558732173 :contentReference[oaicite:6]{index=6}
-- 📍 Based in Gadhinglaj, Maharashtra, India :contentReference[oaicite:7]{index=7}
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+```javascript
+const rohan = {
+    pronouns: "He/Him",
+    location: "Gadhinglaj, Maharashtra, India 🇮🇳",
+    education: {
+        current: "M.Sc. Computer Science (2023-2025)",
+        university: "Modern College, Ganeshkhind (SPPU)",
+        cgpa: "81.09%",
+        previous: "B.Sc. Computer Science (82.36%)"
+    },
+    currentFocus: [
+        "Full Stack Development",
+        "AI Integration & Chatbots",
+        "AWS Cloud Services",
+        "DevOps & CI/CD"
+    ],
+    funFact: "I debug code and life problems with equal enthusiasm! 🐛✨"
+};
+```
+
+🎯 **Current Role**: Internship Trainee at SparkLab IT Solutions Pvt. Ltd. (Jan 2025 – Jun 2025)
+
+🔭 **Working On**: Abhinav Academy Website with AI Chatbot Integration
+
+🌱 **Learning**: AWS Lambda, API Gateway, Kubernetes, Prompt Engineering
+
+💡 **Passionate About**: Building scalable applications, AI-driven solutions, and modern web frameworks
+
+📧 **Reach Me**: rohankadukar12@gmail.com | +91 7558732173
 
 ---
 
-## 🔗 Socials
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://github.com/rohan-kadukar" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/rohan-kadukar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://rohatech.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:rohankadukar12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://facebook.com/rohan-kadukar" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/rohan_kadukar" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://github.com/rohan-kadukar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-kadukar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://rohatech.site" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:rohankadukar12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://blog.rohatech.site" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://facebook.com/rohan-kadukar" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/rohan_kadukar" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
+
+<details>
+<summary><b>🎨 Frontend Technologies</b></summary>
+<br>
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,vue,bootstrap,tailwind,sass,materialui" alt="Frontend Skills"/>
 </p>
+</details>
+
+<details>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
 <p align="center">
-  <!-- Backend & Databases -->
-  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge" alt="Express">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-a08021.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,java,python,cpp,mysql,mongodb,firebase,postgresql,redis,graphql" alt="Backend Skills"/>
 </p>
+</details>
+
+<details>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br>
 <p align="center">
-  <!-- DevOps & Cloud -->
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%237926E6.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify">
-  <img src="https://img.shields.io/badge/CI/CD-%230077B5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github,gitlab,vercel,netlify,heroku,nginx,linux" alt="Cloud & DevOps"/>
+</p>
+</details>
+
+<details>
+<summary><b>🤖 AI & Data Science</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="AI Skills"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+</p>
+</details>
+
+<details>
+<summary><b>🔧 Tools & IDEs</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,postman,figma,photoshop,blender" alt="Tools"/>
+</p>
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=F77B00&center=true&vCenter=true&width=500&lines=Building+Tomorrow's+Solutions+Today!" alt="Projects Typing SVG" />
+</div>
+
+### 🎓 Abhinav Academy Website & AI Chatbot
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+**🎯 Official educational platform with intelligent AI assistant**
+
+**✨ Highlights:**
+- 🤖 **Smart AI Chatbot** - Context-aware responses with Gemini API
+- 🌐 **Multilingual Support** - Marathi, Hindi, English detection
+- 📊 **Analytics Dashboard** - MongoDB logging for insights
+- 🔒 **Enterprise Security** - JWT tokens, CORS, environment variables
+- 🚀 **Auto Deployment** - GitHub Actions CI/CD pipeline
+- 💾 **Context Management** - Token limit optimization with summarization
+
+**🌟 [Live Demo](https://abhinavedu.org) | [📁 Source Code](https://github.com/rohan-kadukar/abhinav-academy-website)**
+
+---
+
+### 💻 Chikode - Code Playground
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+**🎯 Online code editor and snippet manager for developers**
+
+**✨ Features:**
+- ⚡ Real-time code editing with syntax highlighting
+- 📂 Save, tag, and organize code snippets
+- 🔗 Shareable links for collaboration
+- 🎨 Multiple themes and language support
+
+**🌟 [Live Demo](https://chikode.rohatech.site)**
+
+---
+
+### 🌍 Speak Simple Translator
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Translate_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+**🎯 Instant translation tool with clean, intuitive interface**
+
+**✨ Features:**
+- 🌐 Multi-language translation support
+- 💾 Translation history and favorites
+- 📱 Responsive design for all devices
+- ⚡ Lightning-fast serverless functions
+
+**🌟 [Live Demo](https://speaksimpletranslator.rohatech.site/)**
+
+---
+
+### 🤖 Personal Chatbot Buddy
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+**🎯 Personal AI assistant for productivity and creativity**
+
+**✨ Features:**
+- 🧠 Customizable AI personalities
+- 💬 Context-aware conversations
+- 📝 Note-taking and reminders
+- 🎨 Creative brainstorming modes
+
+**🌟 [Live Demo](https://personal-chatbot-buddy.vercel.app)**
+
+---
+
+### 🛒 E-Commerce Solutions
+
+<details>
+<summary><b>🥜 Keshaw Nuts Selling Website</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+**Features:**
+- 🛍️ Complete e-commerce functionality
+- 👨‍💼 Admin panel for inventory management
+- 💳 Secure payment integration
+- 📱 Mobile-responsive design
+
+**[📁 Source Code](https://github.com/rohan-kadukar/keshaw-nuts-selling)**
+</details>
+
+<details>
+<summary><b>🏪 Grocery Management System</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swing-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+**Features:**
+- 📦 Inventory management with CRUD operations
+- 🧾 Billing system with printable receipts
+- 📊 Sales reports and analytics
+- ⚠️ Low stock alerts
+
+**[📁 Source Code](https://github.com/rohan-kadukar/grocery-management-system)**
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohan-kadukar&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kadukar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kadukar&theme=tokyonight&hide_border=true" alt="Streak Stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kadukar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rohan-kadukar&theme=tokyonight" alt="Productive Time" height="165"/>
 </p>
 
 ---
 
-## 🚀 Projects Showcase
-> A balanced mix of AI-driven and traditional web/software solutions, highlighting breadth and depth. :contentReference[oaicite:8]{index=8}
+## 🏆 Achievements & Trophies
 
-### 1. Abhinav Academy Website & Chatbot
-- **Description**: Official site developed during internship; integrated an AI chatbot using Gemini API to assist students with FAQs, admissions, and course details.  
-- **Tech Stack**: Next.js, Tailwind CSS, JavaScript/TypeScript, Node.js API Routes, Gemini API.  
-- **Key Features**:  
-  - Interactive chat UI with streaming responses.  
-  - Context management with summarization to stay within token limits.  
-  - Fallback & escalation when the bot cannot answer.  
-  - Analytics: logs in MongoDB for insights.  
-  - Multilingual support: Marathi/Hindi/English detection.  
-  - Secure deployment: environment variables, HTTP-only cookies/JWT, CORS restrictions.  
-  - CI/CD: GitHub Actions auto-deploy to Vercel on push.  
-- **Live Demo**: [abhinavedu.org](https://abhinavedu.org)  
-- **Code**: [github.com/rohan-kadukar/abhinav-academy-website](https://github.com/rohan-kadukar/abhinav-academy-website) :contentReference[oaicite:9]{index=9}
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohan-kadukar&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
 
-### 2. Chikode (Code Playground & Snippet Manager)
-- **Description**: An online environment for quick prototyping, testing snippets, and sharing code examples. Enables saving and organizing reusable code blocks.  
-- **Tech Stack**: Likely Next.js/React frontend with backend storage (e.g., Firebase/Node.js) for persistence.  
-- **Key Features**:  
-  - Real-time code editing with syntax highlighting.  
-  - Save, tag, and categorize snippets for later reference.  
-  - Shareable links for collaboration or demos.  
-- **Live Demo**: [chikode.rohatech.site](https://chikode.rohatech.site)  
-- **Code**: *(Add repository link when available)* :contentReference[oaicite:10]{index=10}
-
-### 3. Speak Simple Translator
-- **Description**: Web-based translation tool leveraging third-party translation APIs (e.g., Google Translate API) and minimal UI for quick text translation.  
-- **Tech Stack**: Likely Next.js/React frontend, serverless functions for API calls, secure API key handling.  
-- **Key Features**:  
-  - Input text and select target language for instant translation.  
-  - History or favorites for frequently translated phrases.  
-  - Lightweight, responsive UI for mobile and desktop.  
-- **Live Demo**: [speaksimpletranslator.rohatech.site](https://speaksimpletranslator.rohatech.site/)  
-- **Code**: *(Add repository link when available)* :contentReference[oaicite:11]{index=11}
-
-### 4. Personal Chatbot Buddy
-- **Description**: A personal AI assistant/chatbot application for quick queries, note-taking, or small talk. Demonstrates reuse of chatbot architecture for personal use.  
-- **Tech Stack**: Next.js frontend, API routes calling AI endpoint (e.g., OpenAI or Gemini), state management for conversation.  
-- **Key Features**:  
-  - Simple UI to chat with AI for brainstorming, reminders, or casual conversation.  
-  - Session persistence with localStorage or backend storage.  
-  - Customizable system prompts for different “modes” (e.g., coding help, motivational coach).  
-- **Live Demo**: [personal-chatbot-buddy.vercel.app](https://personal-chatbot-buddy.vercel.app)  
-- **Code**: *(Add repository link when available)* :contentReference[oaicite:12]{index=12}
-
-### 5. Keshaw Nuts Selling Website
-- **Description**: E-commerce platform for selling nuts with user authentication, product catalog, shopping cart, and payment integration.  
-- **Tech Stack**: Angular, TypeScript, Firebase Auth & Firestore, Cloud Functions.  
-- **Key Features**:  
-  - Admin panel for product and order management.  
-  - Real-time inventory updates with Firestore listeners.  
-  - Responsive UI built with Tailwind CSS or Bootstrap.  
-- **Live Demo**: *(Add live link if deployed)*  
-- **Code**: [github.com/rohan-kadukar/keshaw-nuts-selling](https://github.com/rohan-kadukar/keshaw-nuts-selling) :contentReference[oaicite:13]{index=13}
-
-### 6. Grocery Management System
-- **Description**: Desktop application for grocery inventory, billing, and reporting.  
-- **Tech Stack**: Java Swing, MySQL, JDBC.  
-- **Key Features**:  
-  - CRUD operations for products, billing module with printable receipts.  
-  - Reports: daily sales, low-stock alerts.  
-- **Code**: [github.com/rohan-kadukar/grocery-management-system](https://github.com/rohan-kadukar/grocery-management-system) :contentReference[oaicite:14]{index=14}
-
-### 7. Shopping Portal
-- **Description**: Web portal with user registration, product browsing, and order management.  
-- **Tech Stack**: Java JSP/Servlets, MySQL, Bootstrap.  
-- **Key Features**:  
-  - Secure session handling via HTTP-only cookies.  
-  - Admin dashboard for order processing.  
-- **Code**: [github.com/rohan-kadukar/shopping-portal](https://github.com/rohan-kadukar/shopping-portal) :contentReference[oaicite:15]{index=15}
-
-### 8. Blog & Articles
-- **Description**: Technical blog sharing insights on web development, DevOps, AI integrations, and tutorials.  
-- **Platform**: Blogger.  
-- **URL**: [blog.rohatech.site](https://blog.rohatech.site) (mirrors posts from rohan-kadukar.blogspot.com)  
-- **Highlights**:  
-  - Articles on secure authentication, performance optimization, prompt engineering for chatbots.  
-  - Tutorials on AWS services, containerization, and deployment pipelines.  
-- **Link**: [View All Posts](https://blog.rohatech.site) :contentReference[oaicite:16]{index=16}
-
-### 9. Utility & Practice Repos
-- **JavaDSA**: Implementations of data structures and algorithms in Java for interview prep.  
-- **scala_practical**, **python_practical**: Hands-on exercises in Scala and Python.  
-- **MangoDB Examples**: MongoDB tutorials and scripts.  
-- **Other**: CLI tools, scripts, small utilities.  
-- **Repos**: Browse [my GitHub repositories](https://github.com/rohan-kadukar?tab=repositories) for full list. :contentReference[oaicite:17]{index=17}
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rohan-kadukar&theme=tokyonight&hide_border=true" alt="Wakatime Stats"/>
+</div>
 
 ---
 
-## 📈 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kadukar&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kadukar&theme=dark&hide_border=false" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kadukar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohan-kadukar&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
-> “Aspire to build solutions that not only solve problems but also delight users.” :contentReference[oaicite:18]{index=18}
+## 📝 Latest Blog Posts & Articles
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog"/>
+</div>
+
+<!-- BLOG-POST-LIST:START -->
+📄 **Technical Insights & Tutorials**
+- 🔐 **Secure Authentication Patterns** - JWT vs Sessions
+- ⚡ **Performance Optimization** - React & Next.js Best Practices  
+- 🤖 **AI Chatbot Development** - Prompt Engineering Techniques
+- ☁️ **AWS Serverless Architecture** - Lambda, API Gateway, DynamoDB
+- 🐳 **Docker & Kubernetes** - Container Orchestration Guide
+<!-- BLOG-POST-LIST:END -->
+
+**📖 [Read All Articles](https://blog.rohatech.site)**
 
 ---
 
-## 📫 Get In Touch
+## 🎯 Current Goals & Roadmap
+
+```mermaid
+graph TD
+    A[🎯 2025 Goals] --> B[Master AWS Cloud Architecture]
+    A --> C[Build AI-Powered SaaS Products]
+    A --> D[Contribute to Open Source]
+    A --> E[Launch Tech Blog Series]
+    
+    B --> B1[AWS Solutions Architect Certification]
+    B --> B2[Serverless Applications with Lambda]
+    
+    C --> C1[Multi-tenant AI Chatbot Platform]
+    C --> C2[Code Generation Tools]
+    
+    D --> D1[React/Next.js Components]
+    D --> D2[Developer Tools & Utilities]
+    
+    E --> E1[AWS Tutorial Series]
+    E --> E2[AI Integration Guides]
+```
+
+---
+
+## 💭 Philosophy & Approach
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote"/>
+</div>
+
+> **"Code is like humor. When you have to explain it, it's bad."** – Cory House
+
+**🚀 My Development Philosophy:**
+- 🎯 **User-Centric Design** - Build for people, not just technology
+- 🔧 **Clean Architecture** - Maintainable, scalable, and testable code
+- 🌟 **Continuous Learning** - Embrace new technologies and methodologies
+- 🤝 **Collaboration** - Great software is built by great teams
+- 📊 **Data-Driven** - Make decisions based on metrics and user feedback
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-kadukar&repo=abhinav-academy-website&theme=tokyonight&hide_border=true" alt="Pinned Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rohan-kadukar&repo=keshaw-nuts-selling&theme=tokyonight&hide_border=true" alt="Pinned Repo"/>
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31k6w3pz3fu4j7qejsxj2xa7gd24&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6w3pz3fu4j7qejsxj2xa7gd24&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Collaborate!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Open+to+exciting+opportunities!;Let's+build+something+amazing+together!;Always+happy+to+discuss+tech!" alt="Collaboration"/>
+</div>
+
+**🌟 I'm always excited to work on:**
+- 🚀 Innovative web applications
+- 🤖 AI-powered solutions
+- ☁️ Cloud-native architectures
+- 📱 Mobile-first experiences
+- 🌐 Open source contributions
+
+**📞 Get in touch:**
+
 <p align="center">
-  <a href="mailto:rohankadukar12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/rohan-kadukar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://rohatech.site"><img src="https://img.shields.io/badge/Portfolio-%2300C7B7?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:rohankadukar12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohan-kadukar/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://rohatech.site">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" alt="Portfolio"/>
+  </a>
 </p>
-<p align="center">© 2025 Rohan Ramesh Kadukar. All rights reserved.</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=75" width="100%"/>
+</div>
+
+<div align="center">
+  <b>⭐ Don't forget to star my repositories if you find them useful! ⭐</b>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohan-kadukar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <i>© 2025 Rohan Ramesh Kadukar. Made with ❤️ and lots of ☕</i>
+</p>
