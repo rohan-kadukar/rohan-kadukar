@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Rohan+Ramesh+Kadukar;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;I+build+things+that+ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=34&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Rohan+Ramesh+Kadukar;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;I+build+things+that+ship." alt="Typing SVG" />
 
-<picture>
-  <source media="(max-width: 600px)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 900px; height: auto;" alt="Animated Banner">
-</picture>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 900px; height: auto;" alt="Animated Banner">
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=rohan-kadukar&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile views"/>
@@ -192,13 +189,15 @@ Explore the full list of repos, experiments, and side projects.
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-kadukar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kadukar&theme=tokyonight&hide_border=false" alt="Streak Stats" width="48%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=rohan-kadukar&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=rohan-kadukar&theme=tokyonight&hide_border=true" alt="Streak Stats" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan-kadukar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="50%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rohan-kadukar&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages" width="42%"/>
 </div>
+
+<p align="center"><sub>Stats render via GitHub's own image proxy — if a card looks stale, it's cached for ~30 min and will refresh on its own.</sub></p>
 
 ---
 
@@ -209,7 +208,7 @@ Explore the full list of repos, experiments, and side projects.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ready+to+innovate+together!;Let's+build+something+that+ships!;Powered+by+curiosity+and+caffeine!" alt="Collaboration"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ready+to+innovate+together!;Let's+build+something+that+ships!;Powered+by+curiosity+and+caffeine!" alt="Collaboration"/>
 
 📧 **[rohankadukar12@gmail.com](mailto:rohankadukar12@gmail.com)** &nbsp;·&nbsp; 🌐 **[rohan-kadukar.vercel.app](https://rohan-kadukar.vercel.app)**
 
